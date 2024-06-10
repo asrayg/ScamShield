@@ -1,4 +1,4 @@
-# ScamShield: Real-Time Scam Detection System
+# ScamShield: Real-Time Phone Scam Detection System
 
 ## Abstract
 
