@@ -1,7 +1,3 @@
-Sure, here's a detailed README file with an abstract, model description, backend, and frontend sections:
-
----
-
 # ScamShield: Real-Time Scam Detection System
 
 ## Abstract
