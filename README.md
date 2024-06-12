@@ -4,6 +4,8 @@
 
 ScamShield is a comprehensive real-time scam detection system designed to monitor phone calls, transcribe audio, and detect potential scam attempts. The system leverages advanced machine learning models for text classification, integrated within a robust backend, and provides an intuitive user interface through a desktop application. ScamShield aims to enhance user safety by identifying suspicious activities during phone calls, ensuring prompt alerts and actions.
 
+The machine learning model files were too large to upload directly to GitHub, so I compressed the necessary files for easier handling. If you would like to review the complete project, you can access all the files at the following link: https://mega.nz/folder/DPJlnByb#DneGrPOGNK0Ii3BivealhQ
+
 ## Table of Contents
 
 1. [Model Description](#model-description)
@@ -203,6 +205,3 @@ The frontend is a PyQt desktop application that captures real-time audio, detect
    ```
 
 ScamShield will start listening for incoming calls, transcribe audio in real-time, and analyze the transcriptions for potential scams, displaying the results in the user interface.
-
-The machine learning model files were too large to upload directly to GitHub, so I compressed the necessary files for easier handling. If you would like to review the complete project, you can access all the files at the following link: https://mega.nz/folder/DPJlnByb#DneGrPOGNK0Ii3BivealhQ
-
